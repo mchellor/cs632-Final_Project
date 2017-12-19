@@ -1,6 +1,6 @@
 # cs632-Final_Project
 
-Student ID:U01366690 
+Student ID:U01366690
 Name: Guangchao Chen
 This is the final project for class CS632L.
 Project detail: In my project, I build a program that can be train to recognize people via their face. The idea is that this program uses a model which is trained by photos. Then, program calls webcam and find and mark the face in video.
