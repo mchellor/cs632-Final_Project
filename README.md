@@ -22,4 +22,4 @@ Step 3: Call webcam and verify our accurancy. Program will call the webcam and s
 
 Still need improvement. 1. Need more data for training. 2. Modify model to enhance accurancy.
 
-Video: Still working...
+Video: https://youtu.be/bzsPj77v2Fs
