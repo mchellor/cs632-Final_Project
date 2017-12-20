@@ -29,7 +29,7 @@ class Camera_reader(object):
                  ROI = gray[x:x + w, y:y + h]
                  ROI = cv2.resize(ROI, (self.img_size, self.img_size), interpolation=cv2.INTER_LINEAR)
                  label,prob = self.model.predict(ROI)
-                 if prob >0.6:    #Only output higher than 70% label
+                 if prob >0.7:    #Only output higher than 70% label
                      show_name = name_list[label]
                  else:
                      show_name = 'Stranger'
