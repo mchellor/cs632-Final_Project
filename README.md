@@ -1,6 +1,6 @@
 # cs632-Final_Project
 
-Student ID:U01366690
+Simple face recognizor
 
 Name: Guangchao Chen
 
